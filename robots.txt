@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohxeenah.liujiannn.com/sitemap.xml
